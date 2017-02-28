@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+########################
+# Unreal Generated Files
+########################
+Escape/Binaries
+Escape/Build
+Escape/DerivedDataCache
+Escape/Intermediate
+Escape/Saved
+
+*.VC.db
